@@ -8,7 +8,7 @@ def output_number(input_object):
 
 
 def output_string(input_number):
-    return "{0:032b}".format(input_number)
+    return "{0:024b}".format(input_number)
 
 
 def output_bytes(input_object):
