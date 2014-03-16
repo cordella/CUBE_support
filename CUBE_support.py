@@ -1,3 +1,5 @@
+#!/usr/bin/env python3
+
 #from BitVector import BitVector
 from binascii import crc32
 import struct
